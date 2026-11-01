@@ -1,5 +1,7 @@
 # Job Application Tracker
 
+[![Backend CI](https://github.com/gdjdkid/job-application-tracker/actions/workflows/backend-ci.yml/badge.svg)](https://github.com/gdjdkid/job-application-tracker/actions/workflows/backend-ci.yml)
+
 A RESTful backend application for managing and tracking job applications throughout the recruitment process.
 
 This project is being developed as a hands-on Java backend engineering portfolio project, with a focus on clean code, layered architecture, database persistence, and automated testing.
